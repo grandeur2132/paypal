@@ -2,5 +2,5 @@ ada
 ogo
 uzi
 obi
-datti
+mercyi
 adaobi
