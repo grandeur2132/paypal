@@ -3,3 +3,4 @@ ogo
 uzi
 obi
 datti
+adaobi
